@@ -8,7 +8,7 @@ This mini-project uses the BeautifulSoup from the Python library bs4 to web scra
 
 ## Wikipedia Webscrape 
 
-wiki_videogames_scrape.ipynb turns the data from the [Wikipedia]([https://www.google.com](https://en.wikipedia.org/wiki/List_of_best-selling_video_games)https://en.wikipedia.org/wiki/List_of_best-selling_video_games) page of best selling video games into a Pandas dataframe. The data such as release date versus copies sold or the count of game publishers is visualized.
+wiki_videogames_scrape.ipynb turns the data from the [Wikipedia](https://en.wikipedia.org/wiki/List_of_best-selling_video_games) page of best-selling video games into a Pandas dataframe. The data such as release date versus copies sold or the count of game publishers is visualized.
 
 ## Form 10-K
 
